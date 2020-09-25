@@ -16,7 +16,7 @@ public class LinkedList {
 
     public Student getAt(int index){}
 
-    public insert(Student reference, Student newStudent){}
+    public void insert(Student reference, Student newStudent){}
 
     public class IteratorArrayList{}
 
