@@ -18,4 +18,6 @@ public class LinkedList {
 
     public insert(Student reference, Student newStudent){}
 
+    public class IteratorArrayList{}
+
 }
